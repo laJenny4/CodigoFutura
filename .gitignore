@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+.vscode/
+*.code-workspace
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.log
+npm-debug.log*
+*.tmp
+*.temp
